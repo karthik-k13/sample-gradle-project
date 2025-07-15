@@ -10,6 +10,7 @@ public class MkrfintechApplication {
 		String branch="main";
 
 		String subBranch="feature";
+		String message="changes from feature-0001 merging into feature branch ";
 		SpringApplication.run(MkrfintechApplication.class, args);
 
 	}
