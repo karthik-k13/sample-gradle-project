@@ -8,7 +8,7 @@ public class MkrfintechApplication {
 
 	public static void main(String[] args) {
 		String branch="main";
-		String subBranch="main-1234";
+		String subBranch="release";
 		SpringApplication.run(MkrfintechApplication.class, args);
 
 	}
