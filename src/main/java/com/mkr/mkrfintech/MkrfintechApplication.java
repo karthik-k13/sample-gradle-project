@@ -9,7 +9,7 @@ public class MkrfintechApplication {
 	public static void main(String[] args) {
 		String branch="main";
 		String subBranch="feature-> pushing from feature-1234";
-
+		String subBranch = "release";
 		SpringApplication.run(MkrfintechApplication.class, args);
 
 	}
